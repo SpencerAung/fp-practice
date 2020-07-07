@@ -1,0 +1,28 @@
+{
+  "name": "fp-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpencerAung/fp-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SpencerAung/fp-practice/issues"
+  },
+  "homepage": "https://github.com/SpencerAung/fp-practice#readme",
+  "dependencies": {
+    "sanctuary": "^3.0.0",
+    "sanctuary-def": "^0.21.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.4.0",
+    "jest": "^26.1.0",
+    "sanctuary-style": "^4.0.0"
+  }
+}
